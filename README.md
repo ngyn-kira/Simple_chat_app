@@ -1,1 +1,1 @@
-# simple_chat_app
+# Simple Chat APP
